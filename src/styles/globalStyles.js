@@ -4,7 +4,7 @@ export default StyleSheet.create({
         flex: 1,
         backgroundColor: '#222831',
         padding: 20,
-        alignItems: 'flex-start', // Mantém tudo à esquerda
+        alignItems: 'flex-start',
         justifyContent: 'center',
     },
     titulo: {
@@ -16,7 +16,7 @@ export default StyleSheet.create({
         textAlign: 'left',
     },
     inputContainer: {
-        flexDirection: 'row', // Barra e input lado a lado
+        flexDirection: 'row',
         alignItems: 'center',
         marginBottom: 15,
     },
